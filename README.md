@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-profile-trophy.vercel.app/?PatilVishwaraj=ryo-ma&theme=flat
+https://github-profile-trophy.vercel.app/PatilVishwarajryo-ma&theme=flat
