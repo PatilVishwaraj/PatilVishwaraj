@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Dineout.co.in look a like**
 
-- 👨‍💻 All of my projects are available at [https://patilvishwaraj.github.io/portfolio.github.io/](https://patilvishwaraj.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://patilvishwaraj.github.io/portfolio.github.io/)
 
 - 💬 Ask me about **MERN Stack and DSA**
 
