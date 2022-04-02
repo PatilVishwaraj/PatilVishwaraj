@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vishwarajaug04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10Ea24aOA6AiPfmajdMS7tlbCDIsxLPpa/view?usp=sharing](https://drive.google.com/file/d/10Ea24aOA6AiPfmajdMS7tlbCDIsxLPpa/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10Ea24aOA6AiPfmajdMS7tlbCDIsxLPpa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
